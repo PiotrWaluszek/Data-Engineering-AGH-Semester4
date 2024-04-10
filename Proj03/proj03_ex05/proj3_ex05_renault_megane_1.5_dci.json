@@ -1,0 +1,15 @@
+{
+    "make": "Renault",
+    "model": "Megane",
+    "body_type": "hatchback",
+    "doors": 5,
+    "top_speed": 215,
+    "acceleration": 7.9,
+    "fuel_consumption": 5.4,
+    "engine": "1.5 dCi",
+    "displacement": 1461,
+    "horsepower": 115,
+    "fuel_type": "diesel",
+    "cylinders": 4,
+    "emissions_class": "Euro 6d-TEMP"
+}

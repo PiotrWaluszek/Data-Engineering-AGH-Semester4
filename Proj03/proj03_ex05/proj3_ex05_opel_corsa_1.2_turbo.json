@@ -1,0 +1,15 @@
+{
+    "make": "Opel",
+    "model": "Corsa",
+    "body_type": "hatchback",
+    "doors": 5,
+    "top_speed": 180,
+    "acceleration": 9.9,
+    "fuel_consumption": 5.5,
+    "engine": "1.2 Turbo",
+    "displacement": 1197,
+    "horsepower": 110,
+    "fuel_type": "gasoline",
+    "cylinders": 4,
+    "emissions_class": "Euro 6d-TEMP"
+}

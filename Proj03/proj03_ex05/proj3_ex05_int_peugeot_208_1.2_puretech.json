@@ -1,0 +1,15 @@
+{
+    "make": "Peugeot",
+    "model": "208",
+    "body_type": "hatchback",
+    "doors": null,
+    "top_speed": 190,
+    "acceleration": 9.9,
+    "fuel_consumption": 5.0,
+    "engine": "1.2 PureTech",
+    "displacement": 1199,
+    "horsepower": 130,
+    "fuel_type": "gasoline",
+    "cylinders": 3,
+    "emissions_class": "Euro 6d"
+}

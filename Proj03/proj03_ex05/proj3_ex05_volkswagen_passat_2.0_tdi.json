@@ -1,0 +1,15 @@
+{
+    "make": "Volkswagen",
+    "model": "Passat",
+    "body_type": "sedan",
+    "doors": 4,
+    "top_speed": 230,
+    "acceleration": 7.5,
+    "fuel_consumption": 6.0,
+    "engine": "2.0 TDI",
+    "displacement": 1968,
+    "horsepower": 150,
+    "fuel_type": "diesel",
+    "cylinders": 4,
+    "emissions_class": "Euro 6d-TEMP"
+}

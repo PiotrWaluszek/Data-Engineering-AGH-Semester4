@@ -1,0 +1,15 @@
+{
+    "make": "Volvo",
+    "model": "S60",
+    "body_type": "sedan",
+    "doors": 4,
+    "top_speed": 250,
+    "acceleration": 6.2,
+    "fuel_consumption": 6.6,
+    "engine": "T8 Polestar Engineered",
+    "displacement": 1969,
+    "horsepower": 415,
+    "fuel_type": "hybrid",
+    "cylinders": 4,
+    "emissions_class": "Euro 6"
+}

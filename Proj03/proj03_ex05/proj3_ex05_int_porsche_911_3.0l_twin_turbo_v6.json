@@ -1,0 +1,15 @@
+{
+    "make": "Porsche",
+    "model": "911",
+    "body_type": "coupe",
+    "doors": null,
+    "top_speed": 330,
+    "acceleration": 3.5,
+    "fuel_consumption": 11.8,
+    "engine": "3.0L Twin Turbo V6",
+    "displacement": 3000,
+    "horsepower": 450,
+    "fuel_type": "gasoline",
+    "cylinders": 6,
+    "emissions_class": "Euro 6"
+}

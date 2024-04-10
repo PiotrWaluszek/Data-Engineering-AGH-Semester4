@@ -1,0 +1,15 @@
+{
+    "make": "Fiat",
+    "model": "500",
+    "body_type": "hatchback",
+    "doors": 3,
+    "top_speed": 160,
+    "acceleration": 12.9,
+    "fuel_consumption": null,
+    "engine": "0.9 TwinAir",
+    "displacement": 875,
+    "horsepower": 85,
+    "fuel_type": "gasoline",
+    "cylinders": 2,
+    "emissions_class": "Euro 6d-TEMP"
+}

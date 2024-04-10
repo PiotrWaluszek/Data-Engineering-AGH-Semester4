@@ -1,0 +1,15 @@
+{
+    "make": "Renault",
+    "model": "Clio",
+    "body_type": "hatchback",
+    "doors": 5,
+    "top_speed": 190,
+    "acceleration": 11.0,
+    "fuel_consumption": 6.5,
+    "engine": "1.5 dCi",
+    "displacement": 1461,
+    "horsepower": 115,
+    "fuel_type": "diesel",
+    "cylinders": 4,
+    "emissions_class": "Euro 6d-TEMP"
+}

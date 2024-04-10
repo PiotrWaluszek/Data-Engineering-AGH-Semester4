@@ -1,0 +1,15 @@
+{
+    "make": "Ford",
+    "model": "Mustang",
+    "body_type": "coupe",
+    "doors": 2,
+    "top_speed": 249,
+    "acceleration": 5.8,
+    "fuel_consumption": 10.2,
+    "engine": "2.3L EcoBoost",
+    "displacement": 2261,
+    "horsepower": 350,
+    "fuel_type": "gasoline",
+    "cylinders": 4,
+    "emissions_class": "Euro 6d-TEMP"
+}

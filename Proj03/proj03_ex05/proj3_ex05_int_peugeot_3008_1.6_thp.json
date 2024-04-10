@@ -1,0 +1,15 @@
+{
+    "make": "Peugeot",
+    "model": "3008",
+    "body_type": "SUV",
+    "doors": 5,
+    "top_speed": 210,
+    "acceleration": 9.2,
+    "fuel_consumption": 5.6,
+    "engine": "1.6 THP",
+    "displacement": 1598,
+    "horsepower": 165,
+    "fuel_type": "gasoline",
+    "cylinders": 4,
+    "emissions_class": "Euro 5"
+}

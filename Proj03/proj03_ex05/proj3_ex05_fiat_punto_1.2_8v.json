@@ -1,0 +1,15 @@
+{
+    "make": "Fiat",
+    "model": "Punto",
+    "body_type": "hatchback",
+    "doors": 3,
+    "top_speed": 170,
+    "acceleration": 12.5,
+    "fuel_consumption": 5.2,
+    "engine": "1.2 8v",
+    "displacement": null,
+    "horsepower": null,
+    "fuel_type": null,
+    "cylinders": null,
+    "emissions_class": null
+}

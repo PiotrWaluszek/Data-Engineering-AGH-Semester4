@@ -1,0 +1,15 @@
+{
+    "make": "Fiat",
+    "model": "Panda",
+    "body_type": "hatchback",
+    "doors": 5,
+    "top_speed": 165,
+    "acceleration": 14.5,
+    "fuel_consumption": 5.0,
+    "engine": "1.2 8v",
+    "displacement": null,
+    "horsepower": null,
+    "fuel_type": null,
+    "cylinders": null,
+    "emissions_class": null
+}

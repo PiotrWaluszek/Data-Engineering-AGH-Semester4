@@ -1,0 +1,15 @@
+{
+    "make": "Volkswagen",
+    "model": "Golf",
+    "body_type": "hatchback",
+    "doors": 5,
+    "top_speed": 210,
+    "acceleration": 8.0,
+    "fuel_consumption": 5.0,
+    "engine": "1.5 TSI",
+    "displacement": 1498,
+    "horsepower": 150,
+    "fuel_type": "gasoline",
+    "cylinders": 4,
+    "emissions_class": "Euro 6d"
+}

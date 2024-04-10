@@ -1,0 +1,15 @@
+{
+    "make": "Volvo",
+    "model": "XC60",
+    "body_type": "SUV",
+    "doors": 5,
+    "top_speed": 220,
+    "acceleration": 8.0,
+    "fuel_consumption": 6.0,
+    "engine": "B4",
+    "displacement": null,
+    "horsepower": null,
+    "fuel_type": null,
+    "cylinders": null,
+    "emissions_class": null
+}
