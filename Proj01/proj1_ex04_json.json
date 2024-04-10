@@ -1,0 +1,72 @@
+[
+    {
+        "first_column":0.3485539245,
+        "two":"-0.14509562920877161",
+        "three":"-0.012336991474672475",
+        "somename":9,
+        "five":"red",
+        "what_is_this_even":"good",
+        "seven":"quarrelsome",
+        "eight":"2016-05-26 09:33:42"
+    },
+    {
+        "first_column":-1.4938530178,
+        "two":"0.12436946488785079",
+        "three":"1.4611100361038865",
+        "somename":4,
+        "five":"red",
+        "what_is_this_even":"bad",
+        "seven":"doctor",
+        "eight":"2016-12-03 18:55:52"
+    },
+    {
+        "first_column":-0.3258910368,
+        "two":null,
+        "three":"-0.42191202598625566",
+        "somename":2,
+        "five":"red",
+        "what_is_this_even":"average",
+        "seven":"large",
+        "eight":"2016-05-15 11:49:26"
+    },
+    {
+        "first_column":-0.5065957166,
+        "two":"0.3991147675939107",
+        "three":"-0.26502607502330217 ",
+        "somename":5,
+        "five":"green",
+        "what_is_this_even":"average",
+        "seven":"muddled",
+        "eight":"2015-01-30 22:33:29"
+    },
+    {
+        "first_column":null,
+        "two":"-0.6913144223047157",
+        "three":"-0.26502607502330217",
+        "somename":2,
+        "five":"blue",
+        "what_is_this_even":"good",
+        "seven":"coordinated",
+        "eight":"2015-11-20 00:15:35"
+    },
+    {
+        "first_column":0.5271122589,
+        "two":"2.584347847701393",
+        "three":"-0.26502607502330217XYZ",
+        "somename":2,
+        "five":"blue",
+        "what_is_this_even":"good",
+        "seven":"separate",
+        "eight":"2017-11-17 09:58:54"
+    },
+    {
+        "first_column":-1.5552904133,
+        "two":"unknown",
+        "three":"-0.7732649697439955",
+        "somename":5,
+        "five":"green",
+        "what_is_this_even":"bad",
+        "seven":"bright",
+        "eight":"2017-05-01 10:32:41"
+    }
+]
